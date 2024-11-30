@@ -1,5 +1,5 @@
 # Know-Your-Neighborhood
-### A tool to compare big cities, and to predict which neighborhoods are most likely to be gentrified
+### A tool to compare neighborhoods within big cities and to predict gentrification
 By Bhargavi Lanka and Kiera Patterson
 
 For detailed information please check here: [PENDING, TO BE UPDATED]
