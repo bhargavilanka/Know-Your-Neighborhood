@@ -1,0 +1,1287 @@
+State,City,Neighborhood,Gentrification_Flag
+Arizona,Pheonix,Ahwatukee Foothills,0.0
+Arizona,Pheonix,Alahambra,1.0
+Arizona,Pheonix,Camelback East,1.0
+Arizona,Pheonix,Central City,1.0
+Arizona,Pheonix,Deer Valley,0.0
+Arizona,Pheonix,Desert View,0.0
+Arizona,Pheonix,Encanto,1.0
+Arizona,Pheonix,Estrella,0.0
+Arizona,Pheonix,Laveen,0.0
+Arizona,Pheonix,Maryvale,0.0
+Arizona,Pheonix,New Village,1.0
+Arizona,Pheonix,North Gateway,0.0
+Arizona,Pheonix,North Mountain,0.0
+Arizona,Pheonix,North Scottsdale,0.0
+Arizona,Pheonix,Paradise Valley,0.0
+Arizona,Pheonix,Pinnacle Peak,0.0
+Arizona,Pheonix,South Mountain,0.0
+California,Los Angeles,Arleta,0.0
+California,Los Angeles,Arlington Heights,0.0
+California,Los Angeles,Atwater Village,1.0
+California,Los Angeles,Baldwin Hills,1.0
+California,Los Angeles,Bel Air Estates,0.0
+California,Los Angeles,Beverly Glen,0.0
+California,Los Angeles,Brentwood,1.0
+California,Los Angeles,Byzantine-Latino Quarter,1.0
+California,Los Angeles,Canoga Park,0.0
+California,Los Angeles,Castellemare,0.0
+California,Los Angeles,Cheviot Hills,1.0
+California,Los Angeles,Chinatown,1.0
+California,Los Angeles,Country Club Park,0.0
+California,Los Angeles,Crenshaw,0.0
+California,Los Angeles,Cypress Park,1.0
+California,Los Angeles,Downtown Arts District,1.0
+California,Los Angeles,Downtown Bunker Hill,1.0
+California,Los Angeles,Downtown City West,1.0
+California,Los Angeles,Downtown Civic Center,1.0
+California,Los Angeles,Downtown Historic Core,1.0
+California,Los Angeles,Dowtown Fashion District,1.0
+California,Los Angeles,Echo Park,1.0
+California,Los Angeles,"El Sereno, Monterey Hills, University Hills",0.0
+California,Los Angeles,Elysian Valley,0.0
+California,Los Angeles,Fairfax,1.0
+California,Los Angeles,Florence-Graham,0.0
+California,Los Angeles,Glassell Park,1.0
+California,Los Angeles,Griffith Park,1.0
+California,Los Angeles,Hancock Park,1.0
+California,Los Angeles,Hansen Hills,0.0
+California,Los Angeles,Harbor Gateway/Shoestring,0.0
+California,Los Angeles,Harvard Heights,0.0
+California,Los Angeles,Hollywood,1.0
+California,Los Angeles,Hyde Park,0.0
+California,Los Angeles,Jefferson Park,0.0
+California,Los Angeles,Koreatown,1.0
+California,Los Angeles,La Tuna Canyon,1.0
+California,Los Angeles,Lake View Terrace,0.0
+California,Los Angeles,Leimert Park,1.0
+California,Los Angeles,Little Tokyo,1.0
+California,Los Angeles,Los Angeles International Airport,0.0
+California,Los Angeles,Melrose,1.0
+California,Los Angeles,Mid-City,0.0
+California,Los Angeles,Mid-City West,1.0
+California,Los Angeles,Miracle Mile,1.0
+California,Los Angeles,Mission Hills,0.0
+California,Los Angeles,Monterey Hills,0.0
+California,Los Angeles,Mt Olympus,0.0
+California,Los Angeles,Mt Washington,0.0
+California,Los Angeles,North Hills,0.0
+California,Los Angeles,North Hollywood,0.0
+California,Los Angeles,Northridge,0.0
+California,Los Angeles,Pacific Highlands,0.0
+California,Los Angeles,Pacific Palisades,0.0
+California,Los Angeles,Pacoima,0.0
+California,Los Angeles,Palms,0.0
+California,Los Angeles,Panorama City,0.0
+California,Los Angeles,Park La Brea,0.0
+California,Los Angeles,Pico Heights,0.0
+California,Los Angeles,Playa Vista,0.0
+California,Los Angeles,Playa del Rey,0.0
+California,Los Angeles,Porter Ranch,0.0
+California,Los Angeles,Rampart Village,0.0
+California,Los Angeles,Rancho Park,0.0
+California,Los Angeles,Reseda,0.0
+California,Los Angeles,San Pedro,0.0
+California,Los Angeles,Sawtelle,0.0
+California,Los Angeles,Shadow Hills,0.0
+California,Los Angeles,Sherman Oaks,0.0
+California,Los Angeles,Sherman Village,0.0
+California,Los Angeles,Silver Lake,1.0
+California,Los Angeles,South Los Angeles,0.0
+California,Los Angeles,South Park-North,0.0
+California,Los Angeles,South Park-South,0.0
+California,Los Angeles,Southeast Los Angeles,0.0
+California,Los Angeles,Studio City,0.0
+California,Los Angeles,Sun Valley,0.0
+California,Los Angeles,Sunland,0.0
+California,Los Angeles,Sylmar,0.0
+California,Los Angeles,Tarzana,0.0
+California,Los Angeles,Terminal Island,0.0
+California,Los Angeles,Toluca Lake,0.0
+California,Los Angeles,Toluca Terrace,0.0
+California,Los Angeles,Topanga State Park,0.0
+California,Los Angeles,Tujunga,0.0
+California,Los Angeles,University Park,0.0
+California,Los Angeles,University of California Los Angeles,0.0
+California,Los Angeles,University of Southern California,0.0
+California,Los Angeles,Valley Village,0.0
+California,Los Angeles,Van Nuys,0.0
+California,Los Angeles,Venice,1.0
+California,Los Angeles,View Park,0.0
+California,Los Angeles,Virgil Village,1.0
+California,Los Angeles,Watts,0.0
+California,Los Angeles,West Adams,1.0
+California,Los Angeles,West Beverly,0.0
+California,Los Angeles,West Fairfax,0.0
+California,Los Angeles,West Hills,0.0
+California,Los Angeles,West Los Angeles,0.0
+California,Los Angeles,West Toluca Lake,0.0
+California,Los Angeles,Westchester,1.0
+California,Los Angeles,Western Wilton,0.0
+California,Los Angeles,Westlake,1.0
+California,Los Angeles,Westwood,0.0
+California,Los Angeles,Wilmington,0.0
+California,Los Angeles,Windsor Hills,0.0
+California,Los Angeles,Windsor Square,1.0
+California,Los Angeles,Winnetka,0.0
+California,Los Angeles,Woodland Hills,0.0
+California,San Francisco,Bayview Hunters Point,0.0
+California,San Francisco,Bernal Heights,1.0
+California,San Francisco,Castro/Upper Market,1.0
+California,San Francisco,Chinatown,0.0
+California,San Francisco,Excelsior,0.0
+California,San Francisco,Financial District,1.0
+California,San Francisco,Glen Park,1.0
+California,San Francisco,Haight Ashbury,0.0
+California,San Francisco,Hayes Valley,1.0
+California,San Francisco,Inner Richmond,1.0
+California,San Francisco,Inner Sunset,1.0
+California,San Francisco,Japantown,0.0
+California,San Francisco,Lakeshore,0.0
+California,San Francisco,Lincoln Park,0.0
+California,San Francisco,Lone Mountain,0.0
+California,San Francisco,Marina,0.0
+California,San Francisco,Mission,1.0
+California,San Francisco,Mission Bay,1.0
+California,San Francisco,Nob Hill,1.0
+California,San Francisco,Noe Valley,1.0
+California,San Francisco,North Beach,1.0
+California,San Francisco,Oceanview/Merced/Ingleside,0.0
+California,San Francisco,Outer Mission,0.0
+California,San Francisco,Outer Richmond,0.0
+California,San Francisco,Pacific Heights,1.0
+California,San Francisco,Portola,0.0
+California,San Francisco,Potrero Hill,1.0
+California,San Francisco,Presidio,0.0
+California,San Francisco,Presidio Heights,1.0
+California,San Francisco,Russian Hill,1.0
+California,San Francisco,Seacliff,1.0
+California,San Francisco,South of Market,1.0
+California,San Francisco,Sunset/Parkside,0.0
+California,San Francisco,Tenderloin,0.0
+California,San Francisco,Treasure Island,0.0
+California,San Francisco,Twin Peaks,1.0
+California,San Francisco,Visitacion Valley,0.0
+California,San Francisco,West of Twin Peaks,0.0
+California,San Francisco,Western Addition,0.0
+California,San Jose,Almaden Valley,0.0
+California,San Jose,Alum Rock-East Foothills,0.0
+California,San Jose,Berryessa,0.0
+California,San Jose,Blossom Valley,0.0
+California,San Jose,Buena Vista,0.0
+California,San Jose,Burbank,1.0
+California,San Jose,Cambrian Park,0.0
+California,San Jose,Downtown,1.0
+California,San Jose,East San Jose,0.0
+California,San Jose,Edenvale-Seven Trees,0.0
+California,San Jose,Evergreen,0.0
+California,San Jose,Fairgrounds,0.0
+California,San Jose,North San Jose,1.0
+California,San Jose,North Valley,0.0
+California,San Jose,Rose Garden,1.0
+California,San Jose,Santa Teresa,0.0
+California,San Jose,West San Jose,0.0
+California,San Jose,Willow Glen,1.0
+California ,San Diego,Allied Gardens,0.0
+California ,San Diego,Balboa Park,0.0
+California ,San Diego,Clairemont,0.0
+California ,San Diego,Coronado,0.0
+California ,San Diego,Downtown,1.0
+California ,San Diego,Encanto,0.0
+California ,San Diego,Golden Hill,1.0
+California ,San Diego,La Jolla,0.0
+California ,San Diego,Logan Heights,1.0
+California ,San Diego,Marine Corps,0.0
+California ,San Diego,Metro,0.0
+California ,San Diego,Mira Mesa,0.0
+California ,San Diego,Miramar,0.0
+California ,San Diego,Mission Trails Park,0.0
+California ,San Diego,Mission Valley,0.0
+California ,San Diego,Morena,0.0
+California ,San Diego,Naval,0.0
+California ,San Diego,North Island,0.0
+California ,San Diego,Ocean Beach,1.0
+California ,San Diego,Old Town,0.0
+California ,San Diego,Pacific Beach,1.0
+California ,San Diego,Paradise Hills,0.0
+California ,San Diego,Point Loma,0.0
+California ,San Diego,San Diego State University,0.0
+California ,San Diego,Scripps Ranch,0.0
+California ,San Diego,Serra Mesa,0.0
+California ,San Diego,Sorrento Valley,0.0
+California ,San Diego,Tierrasanta,0.0
+California ,San Diego,UC San Diego,0.0
+California ,San Diego,University City,1.0
+Colorado,Denver,Alamo Placita,0.0
+Colorado,Denver,Auraria,0.0
+Colorado,Denver,Baker,1.0
+Colorado,Denver,Capitol Hill,1.0
+Colorado,Denver,Central East,1.0
+Colorado,Denver,Central West,1.0
+Colorado,Denver,Cherry Creek,1.0
+Colorado,Denver,City Park,1.0
+Colorado,Denver,Five Points,1.0
+Colorado,Denver,Gateway-Green Valley Ranch,0.0
+Colorado,Denver,Golden Triangle,1.0
+Colorado,Denver,Highland,1.0
+Colorado,Denver,Jefferson Park,1.0
+Colorado,Denver,Lodo,1.0
+Colorado,Denver,Northern,0.0
+Colorado,Denver,Northwestern,0.0
+Colorado,Denver,Park Hill,1.0
+Colorado,Denver,Southeastern,0.0
+Colorado,Denver,Southwestern,0.0
+Colorado,Denver,Stapleton,1.0
+Colorado,Denver,University,1.0
+Colorado,Denver,Washington Park,1.0
+District of Columbia,Washington,Adams Morgan,1.0
+District of Columbia,Washington,American University Park,0.0
+District of Columbia,Washington,Anacostia,0.0
+District of Columbia,Washington,Arboretum,0.0
+District of Columbia,Washington,Barnaby Woods,0.0
+District of Columbia,Washington,Barney Circle,0.0
+District of Columbia,Washington,Barry Farm,0.0
+District of Columbia,Washington,Bellevue,0.0
+District of Columbia,Washington,Benning,0.0
+District of Columbia,Washington,Benning Heights,0.0
+District of Columbia,Washington,Benning Ridge,0.0
+District of Columbia,Washington,Berkley,0.0
+District of Columbia,Washington,Bloomingdale,1.0
+District of Columbia,Washington,Brentwood,1.0
+District of Columbia,Washington,Brightwood,0.0
+District of Columbia,Washington,Brightwood Park,0.0
+District of Columbia,Washington,Brookland,0.0
+District of Columbia,Washington,Buena Vista,0.0
+District of Columbia,Washington,Burleith,0.0
+District of Columbia,Washington,Burrville,0.0
+District of Columbia,Washington,Capitol Hill,1.0
+District of Columbia,Washington,Capitol View,0.0
+District of Columbia,Washington,Carver Langston,1.0
+District of Columbia,Washington,Cathedral Heights,0.0
+District of Columbia,Washington,Central Northeast,0.0
+District of Columbia,Washington,Chevy Chase,0.0
+District of Columbia,Washington,Chinatown,1.0
+District of Columbia,Washington,Cleveland Park,1.0
+District of Columbia,Washington,Colonial Village,0.0
+District of Columbia,Washington,Colony Hill,0.0
+District of Columbia,Washington,Columbia Heights,1.0
+District of Columbia,Washington,Congress Heights,0.0
+District of Columbia,Washington,Crestwood,0.0
+District of Columbia,Washington,Deanwood,0.0
+District of Columbia,Washington,Douglass,0.0
+District of Columbia,Washington,Downtown,0.0
+District of Columbia,Washington,Dupont Circle,1.0
+District of Columbia,Washington,Dupont Park,1.0
+District of Columbia,Washington,Eastland Gardens,0.0
+District of Columbia,Washington,Eckington,0.0
+District of Columbia,Washington,Edgewood,0.0
+District of Columbia,Washington,Fairfax Village,0.0
+District of Columbia,Washington,Fairlawn,0.0
+District of Columbia,Washington,Foggy Bottom,1.0
+District of Columbia,Washington,Forest Hills,0.0
+District of Columbia,Washington,Fort Davis,0.0
+District of Columbia,Washington,Fort Dupont,0.0
+District of Columbia,Washington,Fort Lincoln,0.0
+District of Columbia,Washington,Fort Totten,0.0
+District of Columbia,Washington,Foxhall,0.0
+District of Columbia,Washington,Friendship Heights,0.0
+District of Columbia,Washington,Garfield Heights,0.0
+District of Columbia,Washington,Gateway,0.0
+District of Columbia,Washington,Georgetown,1.0
+District of Columbia,Washington,Glover Park,0.0
+District of Columbia,Washington,Good Hope,0.0
+District of Columbia,Washington,Greenway,0.0
+District of Columbia,Washington,Hawthorne,0.0
+District of Columbia,Washington,Hillbrook,0.0
+District of Columbia,Washington,Hillcrest,0.0
+District of Columbia,Washington,Howard University,1.0
+District of Columbia,Washington,Ivy City,0.0
+District of Columbia,Washington,Judiciary Square,0.0
+District of Columbia,Washington,Kalorama,1.0
+District of Columbia,Washington,Kenilworth,0.0
+District of Columbia,Washington,Kent,0.0
+Florida,Jacksonville,29th And Chase,0.0
+Florida,Jacksonville,45th And Moncrief,0.0
+Florida,Jacksonville,Alderman Park,0.0
+Florida,Jacksonville,Allendale,0.0
+Florida,Jacksonville,Argyle Forest,0.0
+Florida,Jacksonville,Arlington,0.0
+Florida,Jacksonville,Arlington Hills,0.0
+Florida,Jacksonville,Arlington Manor,0.0
+Florida,Jacksonville,Arlingwood,0.0
+Florida,Jacksonville,Arrowhead,0.0
+Florida,Jacksonville,Atlantic Beach,0.0
+Florida,Jacksonville,Atlantic Boulevard Estates,0.0
+Florida,Jacksonville,Atlantic Highlands,0.0
+Florida,Jacksonville,Avondale,1.0
+Florida,Jacksonville,Baymeadows,0.0
+Florida,Jacksonville,Beach Haven,0.0
+Florida,Jacksonville,Beach Holiday Harbors,0.0
+Florida,Jacksonville,Beach Jacksonville Beach,0.0
+Florida,Jacksonville,Beachwood,0.0
+Florida,Jacksonville,Beacon Hills And Harbour,0.0
+Florida,Jacksonville,Beauclerc,0.0
+Florida,Jacksonville,Biltmore,0.0
+Florida,Jacksonville,Biscayne,0.0
+Florida,Jacksonville,Biscayne Terrace,0.0
+Florida,Jacksonville,Black Hammock Island,0.0
+Florida,Jacksonville,Blaunt-Quarantine Island,0.0
+Florida,Jacksonville,Brakridge,0.0
+Florida,Jacksonville,Brentwood,0.0
+Florida,Jacksonville,Brierwood,0.0
+Florida,Jacksonville,Brooklyn,1.0
+Florida,Jacksonville,Brown Island,0.0
+Florida,Jacksonville,Bulls Bay,0.0
+Florida,Jacksonville,Carver Manor,0.0
+Florida,Jacksonville,Cedar Hills,0.0
+Florida,Jacksonville,Cedar Hills Estate,0.0
+Florida,Jacksonville,Charter Point,0.0
+Florida,Jacksonville,Chimney Lakes,0.0
+Florida,Jacksonville,Cisco Gardens,0.0
+Florida,Jacksonville,Clifton,0.0
+Florida,Jacksonville,Cobblestone,0.0
+Florida,Jacksonville,College Gardens,0.0
+Florida,Jacksonville,College Park,0.0
+Florida,Jacksonville,Colony Cove,0.0
+Florida,Jacksonville,Commonwealth,0.0
+Florida,Jacksonville,Confederate Point,0.0
+Florida,Jacksonville,Copper Hill,0.0
+Florida,Jacksonville,Cranzel T Brown Park,0.0
+Florida,Jacksonville,Craven,0.0
+Florida,Jacksonville,Crystal Springs,0.0
+Florida,Jacksonville,Deercreek,0.0
+Florida,Jacksonville,Deerwood,0.0
+Florida,Jacksonville,Deerwood Center,0.0
+Florida,Jacksonville,Del Rio,0.0
+Florida,Jacksonville,Dinsmore,0.0
+Florida,Jacksonville,Downtown Jacksonville,1.0
+Florida,Jacksonville,Duclay,0.0
+Florida,Jacksonville,Duclay Foest,0.0
+Florida,Jacksonville,Duval,0.0
+Florida,Jacksonville,Eagle Bend,0.0
+Florida,Jacksonville,East Arlington,0.0
+Florida,Jacksonville,East Jacksonville,1.0
+Florida,Jacksonville,Eastport,0.0
+Florida,Jacksonville,Edgewood,1.0
+Florida,Jacksonville,Edgewood Manor,1.0
+Florida,Jacksonville,Empire Point,0.0
+Florida,Jacksonville,Englewood,0.0
+Florida,Jacksonville,Fairfax,0.0
+Florida,Jacksonville,Fairfield,0.0
+Florida,Jacksonville,Fairways Forest,0.0
+Florida,Jacksonville,Forest Trails,0.0
+Florida,Jacksonville,Fort Caroline Shores,0.0
+Florida,Jacksonville,Fort George Island,0.0
+Florida,Jacksonville,Garden City,0.0
+Florida,Jacksonville,Gilmore,0.0
+Florida,Jacksonville,Girvin,0.0
+Florida,Jacksonville,Glynlea-Grove Park,0.0
+Florida,Jacksonville,Golden Glades-The Woods,0.0
+Florida,Jacksonville,Goodby's Creek,0.0
+Florida,Jacksonville,Grand Park,0.0
+Florida,Jacksonville,Greenfield Manor,0.0
+Florida,Jacksonville,Greenland,0.0
+Florida,Jacksonville,Harborview],0.0
+Florida,Jacksonville,Herlong,0.0
+Florida,Jacksonville,Hidden Hills,0.0
+Florida,Jacksonville,Highlands,0.0
+Florida,Jacksonville,Hillcrest,0.0
+Florida,Jacksonville,Hogan,0.0
+Florida,Jacksonville,Hogan's Creek,0.0
+Florida,Jacksonville,Holiday Harbors,0.0
+Florida,Jacksonville,Holiday Hill,0.0
+Florida,Jacksonville,Holly Oaks,0.0
+Florida,Jacksonville,Hollyford,0.0
+Florida,Jacksonville,Hyde Park,0.0
+Florida,Jacksonville,Imeson Park,0.0
+Florida,Jacksonville,Isle Of Palms,0.0
+Florida,Jacksonville,Jacksonville Beach,0.0
+Florida,Jacksonville,Jacksonville Farms-Terrace,0.0
+Florida,Jacksonville,Jacksonville Heights,0.0
+Florida,Jacksonville,Jacksonville Heights South,0.0
+Florida,Jacksonville,Jacksonville Heights West,0.0
+Florida,Jacksonville,Jacksonville Naval Air Station,0.0
+Florida,Jacksonville,Jacksonville North Estate,0.0
+Florida,Jacksonville,Jacksonville University,0.0
+Florida,Jacksonville,Jamestown,0.0
+Florida,Jacksonville,Julington Creek,0.0
+Florida,Jacksonville,Kennel Club,0.0
+Florida,Jacksonville,Kilarney Shores,0.0
+Florida,Jacksonville,Lackawanna,0.0
+Florida,Jacksonville,Lake Forest,0.0
+Florida,Jacksonville,Lake Forest Hills,0.0
+Florida,Jacksonville,Lake Lucina,0.0
+Florida,Jacksonville,Lakeshore,0.0
+Florida,Jacksonville,Lakewood,1.0
+Florida,Jacksonville,Larsen,0.0
+Florida,Jacksonville,Lincoln Villas,0.0
+Florida,Jacksonville,Longbranch,0.0
+Florida,Jacksonville,Loretto,0.0
+Florida,Jacksonville,Love Grove-Riviera Manor,0.0
+Florida,Jacksonville,Magnolia Gardens,0.0
+Florida,Jacksonville,Mandarin,1.0
+Florida,Jacksonville,Mandarin Station-Losco,0.0
+Florida,Jacksonville,Marietta,0.0
+Florida,Jacksonville,McGirts Creek,0.0
+Florida,Jacksonville,Mid-Westside,0.0
+Florida,Jacksonville,Midtown,0.0
+Florida,Jacksonville,Miramar,0.0
+Florida,Jacksonville,Mixon Town,0.0
+Florida,Jacksonville,Monclair,0.0
+Florida,Jacksonville,Moncrief Park,0.0
+Florida,Jacksonville,Monterey,0.0
+Florida,Jacksonville,Murray Hill,1.0
+Florida,Jacksonville,New Town,0.0
+Florida,Jacksonville,Normandy,0.0
+Florida,Jacksonville,Normandy Estate,0.0
+Florida,Jacksonville,Normandy Manor,0.0
+Florida,Jacksonville,Normandy Village,0.0
+Florida,Jacksonville,North Beach,0.0
+Florida,Jacksonville,Oak Haven,0.0
+Florida,Jacksonville,Oak Hill,0.0
+Florida,Jacksonville,Oceanway,0.0
+Florida,Jacksonville,Ortega,0.0
+Florida,Jacksonville,Ortega Farms,0.0
+Florida,Jacksonville,Ortega Forest,0.0
+Florida,Jacksonville,Ortega Hills,0.0
+Florida,Jacksonville,Osceola Forest,0.0
+Florida,Jacksonville,Otis,0.0
+Florida,Jacksonville,Panama Park,0.0
+Florida,Jacksonville,Park Ridge,0.0
+Florida,Jacksonville,Pecan Park,0.0
+Florida,Jacksonville,Phoenix,0.0
+Florida,Jacksonville,Picketville,0.0
+Florida,Jacksonville,Pickwick Park,0.0
+Florida,Jacksonville,Pumpkin Hill,0.0
+Florida,Jacksonville,Regency,0.0
+Florida,Jacksonville,Ribault,0.0
+Florida,Jacksonville,Riverside,1.0
+Florida,Jacksonville,Riverview,0.0
+Florida,Jacksonville,Robinson's Addition,0.0
+Florida,Jacksonville,Rolling Hills,0.0
+Florida,Jacksonville,Royal Lakes,0.0
+Florida,Jacksonville,Royal Terrace,0.0
+Florida,Jacksonville,Saint Johns Bluff,0.0
+Florida,Jacksonville,Saint Nicholas,0.0
+Florida,Jacksonville,San Jose,0.0
+Florida,Jacksonville,San Jose Forest,0.0
+Florida,Jacksonville,San Marco,1.0
+Florida,Jacksonville,San Mateo,0.0
+Florida,Jacksonville,Sandalwood,0.0
+Florida,Jacksonville,Sans Pareil,0.0
+Florida,Jacksonville,Sans Souci,0.0
+Florida,Jacksonville,Secret Cove,0.0
+Florida,Jacksonville,Settlers Landing,0.0
+Florida,Jacksonville,Sherwood Forest,0.0
+Florida,Jacksonville,South Riverside,1.0
+Florida,Jacksonville,Southpoint,0.0
+Florida,Jacksonville,Southside,0.0
+Florida,Jacksonville,Southsuide Estates,0.0
+Florida,Jacksonville,Southwood,0.0
+Florida,Jacksonville,Spring Glen,0.0
+Florida,Jacksonville,Spring Park,0.0
+Florida,Jacksonville,Springfield,1.0
+Florida,Jacksonville,Sunbeam,0.0
+Florida,Jacksonville,Swamp,0.0
+Florida,Jacksonville,Sweetwater,0.0
+Florida,Jacksonville,Tallulah-North Shore,0.0
+Florida,Jacksonville,Tallyrand,0.0
+Florida,Jacksonville,The Cape,0.0
+Florida,Jacksonville,Tiger Hole-Secret Woods,0.0
+Florida,Jacksonville,Turtle Creek,0.0
+Florida,Jacksonville,University Club,0.0
+Florida,Jacksonville,University Park,0.0
+Florida,Jacksonville,Venetia,0.0
+Florida,Jacksonville,Wesconnett,0.0
+Florida,Jacksonville,Whitehouse,0.0
+Florida,Jacksonville,Windy Hill,0.0
+Florida,Jacksonville,Woodland Acres,0.0
+Florida,Jacksonville,Woodmere,0.0
+Florida,Jacksonville,Woodstock,0.0
+Illinois,Chicago,Albany Park,1.0
+Illinois,Chicago,Archer Heights,0.0
+Illinois,Chicago,Armour Square,1.0
+Illinois,Chicago,Ashburn,0.0
+Illinois,Chicago,Austin,0.0
+Illinois,Chicago,Avalon Park,0.0
+Illinois,Chicago,Avondale,1.0
+Illinois,Chicago,Belmont Cragin,0.0
+Illinois,Chicago,Beverly,0.0
+Illinois,Chicago,Bridgeport,1.0
+Illinois,Chicago,Brighton Park,0.0
+Illinois,Chicago,Burnside,0.0
+Illinois,Chicago,Calumet Heights,0.0
+Illinois,Chicago,Chatham,0.0
+Illinois,Chicago,Chicago Heights,0.0
+Illinois,Chicago,Chicago Lawn,0.0
+Illinois,Chicago,Chicago Loop,0.0
+Illinois,Chicago,Chicago Ridge,0.0
+Illinois,Chicago,Clearing,0.0
+Illinois,Chicago,Douglas,0.0
+Illinois,Chicago,Downtown,0.0
+Illinois,Chicago,Dunning,0.0
+Illinois,Chicago,East Garfield Park,1.0
+Illinois,Chicago,Edgewater,1.0
+Illinois,Chicago,Edison Park,0.0
+Illinois,Chicago,Englewood,0.0
+Illinois,Chicago,Forest Glen,0.0
+Illinois,Chicago,Gage Park,0.0
+Illinois,Chicago,Garfield Ridge,0.0
+Illinois,Chicago,Grand Boulevard,0.0
+Illinois,Chicago,Grand Crossing,0.0
+Illinois,Chicago,Hegewisch,0.0
+Illinois,Chicago,Hermosa,0.0
+Illinois,Chicago,Humboldt Park,1.0
+Illinois,Chicago,Hyde Park,0.0
+Illinois,Chicago,Irving Park,1.0
+Illinois,Chicago,Jefferson Park,0.0
+Illinois,Chicago,Kenwood,0.0
+Illinois,Chicago,Lake View,1.0
+Illinois,Chicago,Lincoln Park,1.0
+Illinois,Chicago,Lincoln Square,0.0
+Illinois,Chicago,Logan Square,1.0
+Illinois,Chicago,Loop,1.0
+Illinois,Chicago,McKinley Park,1.0
+Illinois,Chicago,Montclare,0.0
+Illinois,Chicago,Morgan Park,0.0
+Illinois,Chicago,Mount Greenwood,0.0
+Illinois,Chicago,Near North Side,1.0
+Illinois,Chicago,North Center,1.0
+Illinois,Chicago,North Park,0.0
+Illinois,Chicago,Norwood Park,0.0
+Illinois,Chicago,O'hare,0.0
+Illinois,Chicago,Oakland,0.0
+Illinois,Chicago,Pottage Park,0.0
+Illinois,Chicago,Pullman,0.0
+Illinois,Chicago,Riverdale,0.0
+Illinois,Chicago,Rogers Park,1.0
+Illinois,Chicago,Roseland,0.0
+Illinois,Chicago,South Chicago,1.0
+Illinois,Chicago,South Deering,0.0
+Illinois,Chicago,South Lawndale,0.0
+Illinois,Chicago,South Shore,0.0
+Illinois,Chicago,Uptown,1.0
+Illinois,Chicago,Washington Heights,0.0
+Illinois,Chicago,Washington Park,0.0
+Illinois,Chicago,West Elsdon,0.0
+Illinois,Chicago,West Englewood,0.0
+Illinois,Chicago,West Garfield Park,0.0
+Illinois,Chicago,West Lawn,0.0
+Illinois,Chicago,West Pullman,0.0
+Illinois,Chicago,West Ridge,0.0
+Illinois,Chicago,West Town,1.0
+Illinois,Chicago,Woodlawn,0.0
+Massachusetts,Boston,Allston,1.0
+Massachusetts,Boston,Back Bay,1.0
+Massachusetts,Boston,Bay Village,0.0
+Massachusetts,Boston,Beacon Hill,0.0
+Massachusetts,Boston,Brighton,1.0
+Massachusetts,Boston,Charlestown,0.0
+Massachusetts,Boston,Chestnut Hill,0.0
+Massachusetts,Boston,Chinatown,0.0
+Massachusetts,Boston,Dorchester,1.0
+Massachusetts,Boston,East Boston,0.0
+Massachusetts,Boston,Fenway,1.0
+Massachusetts,Boston,Financial District,1.0
+Massachusetts,Boston,Government Center,0.0
+Massachusetts,Boston,Hyde Park,0.0
+Massachusetts,Boston,Jamaica Plain,1.0
+Massachusetts,Boston,Leather District,0.0
+Massachusetts,Boston,Longwood,1.0
+Massachusetts,Boston,Mattapan,0.0
+Massachusetts,Boston,Mission Hill,1.0
+Massachusetts,Boston,North End,1.0
+Massachusetts,Boston,Prudential Center Area,1.0
+Massachusetts,Boston,Roslindale,0.0
+Massachusetts,Boston,Roxbury,0.0
+Massachusetts,Boston,Seaport,1.0
+Massachusetts,Boston,South Boston,1.0
+Massachusetts,Boston,South End,1.0
+Massachusetts,Boston,Theater District,1.0
+Massachusetts,Boston,West End,1.0
+Massachusetts,Boston,West Roxbury,0.0
+Nevada,Las Vegas,Downtown,1.0
+Nevada,Las Vegas,East,0.0
+Nevada,Las Vegas,Henderson,0.0
+Nevada,Las Vegas,North,0.0
+Nevada,Las Vegas,Northwest,0.0
+Nevada,Las Vegas,South,0.0
+Nevada,Las Vegas,Southwest,0.0
+Nevada,Las Vegas,Summerlin,0.0
+Nevada,Las Vegas,The Strip,0.0
+New York,New York City,Borough Park ,0.0
+New York,New York City,Bronx Park and Fordham,1.0
+New York,New York City,Bushwick and Williamsburg ,1.0
+New York,New York City,Canarsie and Flatlands ,0.0
+New York,New York City,Central Bronx,0.0
+New York,New York City,Central Brooklyn ,0.0
+New York,New York City,Central Harlem,1.0
+New York,New York City,Central Queens ,0.0
+New York,New York City,Chelsea and Clinton ,1.0
+New York,New York City,East Harlem ,1.0
+New York,New York City,East New York and New Lots ,0.0
+New York,New York City,Flatbush,1.0
+New York,New York City,Gramercy Park and Murray Hill ,1.0
+New York,New York City,Greenpoint ,1.0
+New York,New York City,Greenwich Village and Soho,1.0
+New York,New York City,High Bridge and Morrisania,0.0
+New York,New York City,Hunts Point and Mott Haven,0.0
+New York,New York City,Inwood and Washington Heights ,1.0
+New York,New York City,Jamaica ,0.0
+New York,New York City,Kingsbridge and Riverdale,0.0
+New York,New York City,Lower East Side ,1.0
+New York,New York City,Lower Manhattan ,1.0
+New York,New York City,Mid-Island,0.0
+New York,New York City,North Queens ,0.0
+New York,New York City,Northeast Bronx,0.0
+New York,New York City,Northeast Queens ,0.0
+New York,New York City,Northwest Brooklyn ,1.0
+New York,New York City,Northwest Queens ,1.0
+New York,New York City,Port Richmond,0.0
+New York,New York City,Rockaways ,1.0
+New York,New York City,South Shore,0.0
+New York,New York City,Southeast Bronx,0.0
+New York,New York City,Southeast Queens ,0.0
+New York,New York City,Southern Brooklyn ,0.0
+New York,New York City,Southwest Brooklyn ,1.0
+New York,New York City,Southwest Queens ,0.0
+New York,New York City,Stapleton and St. George,0.0
+New York,New York City,Sunset Park ,1.0
+New York,New York City,Upper East Side ,1.0
+New York,New York City,Upper West Side ,0.0
+New York,New York City,West Central Queens ,0.0
+New York,New York City,West Queens ,0.0
+Ohio,Columbus,Bexley,0.0
+Ohio,Columbus,Brewery,0.0
+Ohio,Columbus,Brice-Tussing,1.0
+Ohio,Columbus,Clintonville,0.0
+Ohio,Columbus,Downtown,1.0
+Ohio,Columbus,Far North,0.0
+Ohio,Columbus,Far South,0.0
+Ohio,Columbus,Fort Columbus Airport,0.0
+Ohio,Columbus,Franklinton,1.0
+Ohio,Columbus,Greater Hilltop,0.0
+Ohio,Columbus,Harrison West,1.0
+Ohio,Columbus,Italian Village,1.0
+Ohio,Columbus,McKinley Avenue Corridor,0.0
+Ohio,Columbus,Milo Grogan,1.0
+Ohio,Columbus,Near East,0.0
+Ohio,Columbus,Near Southside,0.0
+Ohio,Columbus,North Central,0.0
+Ohio,Columbus,North Linden,0.0
+Ohio,Columbus,Northeast,0.0
+Ohio,Columbus,Northland,0.0
+Ohio,Columbus,Northwest,0.0
+Ohio,Columbus,Olentangy River Road,0.0
+Ohio,Columbus,Rocky-Fork Blacklick Accord,0.0
+Ohio,Columbus,South Alum Creek,0.0
+Ohio,Columbus,South Central Accord,0.0
+Ohio,Columbus,South Linden,0.0
+Ohio,Columbus,South Side,0.0
+Ohio,Columbus,Southeast,0.0
+Ohio,Columbus,Southwest,0.0
+Ohio,Columbus,Tri-South,0.0
+Ohio,Columbus,University,1.0
+Ohio,Columbus,Upper Arlington,0.0
+Ohio,Columbus,Victorican Village,1.0
+Ohio,Columbus,Weinland Park,1.0
+Ohio,Columbus,West Columbus Interim,0.0
+Ohio,Columbus,Westland,0.0
+Ohio,Columbus,Whitehall,0.0
+Ohio,Columbus,Worthington,0.0
+Pennsylvania,Philadelphia,Cedarbrook,0.0
+Pennsylvania,Philadelphia,Center City – Society Hill,1.0
+Pennsylvania,Philadelphia,Center City – Washington Square West/Chinatown,1.0
+Pennsylvania,Philadelphia,Center City – West,1.0
+Pennsylvania,Philadelphia,Chestnut Hill,0.0
+Pennsylvania,Philadelphia,East Falls,0.0
+Pennsylvania,Philadelphia,Fairmount North/Brewerytown,1.0
+Pennsylvania,Philadelphia,Fairmount South,1.0
+Pennsylvania,Philadelphia,Germantown,0.0
+Pennsylvania,Philadelphia,Germantown East,0.0
+Pennsylvania,Philadelphia,Kensington/Fishtown,1.0
+Pennsylvania,Philadelphia,Logantown,0.0
+Pennsylvania,Philadelphia,Manayunk,1.0
+Pennsylvania,Philadelphia,Mount Airy,0.0
+Pennsylvania,Philadelphia,Nicetown,0.0
+Pennsylvania,Philadelphia,North Philadelphia – East,0.0
+Pennsylvania,Philadelphia,North Philadelphia – West,0.0
+Pennsylvania,Philadelphia,Northeast – Bridesburg,0.0
+Pennsylvania,Philadelphia,Northeast – Bustleton North/Somerton,0.0
+Pennsylvania,Philadelphia,Northeast – Bustleton South,0.0
+Pennsylvania,Philadelphia,Northeast – Fox Chase,0.0
+Pennsylvania,Philadelphia,Northeast – Frankford,0.0
+Pennsylvania,Philadelphia,Northeast – Holmesburg,0.0
+Pennsylvania,Philadelphia,Northeast – Mayfair/Oxford Circle,0.0
+Pennsylvania,Philadelphia,Northeast – Rhawnhurst,0.0
+Pennsylvania,Philadelphia,Northeast – Tacony,0.0
+Pennsylvania,Philadelphia,Northeast – Torresdale North,0.0
+Pennsylvania,Philadelphia,Northeast – Torresdale South,0.0
+Pennsylvania,Philadelphia,Northern Liberties/Spring Garden,1.0
+Pennsylvania,Philadelphia,North Philadelphia – Yorktown,0.0
+Pennsylvania,Philadelphia,Oak Lane,0.0
+Pennsylvania,Philadelphia,Olney,0.0
+Pennsylvania,Philadelphia,Overbrook,0.0
+Pennsylvania,Philadelphia,Port Richmond,1.0
+Pennsylvania,Philadelphia,Roxborough,1.0
+Pennsylvania,Philadelphia,Southwest Philadelphia – Eastwick,0.0
+Pennsylvania,Philadelphia,Southwest Philadelphia – Kingsessing,0.0
+Pennsylvania,Philadelphia,Southwest Philadelphia – Paschall/Elmwood,0.0
+Pennsylvania,Philadelphia,South Philadelphia – East,1.0
+Pennsylvania,Philadelphia,South Philadelphia – Queen Village/Bella Vista,1.0
+Pennsylvania,Philadelphia,South Philadelphia – Schuylkill,0.0
+Pennsylvania,Philadelphia,South Philadelphia – West,0.0
+Pennsylvania,Philadelphia,West Philadelphia – West Market,0.0
+Pennsylvania,Philadelphia,West Philadelphia – University City,1.0
+Pennsylvania,Philadelphia,Wynnefield/West Park,0.0
+Tennessee,Nashville,Antioch,0.0
+Tennessee,Nashville,Bakers Grove,0.0
+Tennessee,Nashville,Bellmont Hillsboro,0.0
+Tennessee,Nashville,Bells Bend,0.0
+Tennessee,Nashville,Bordeaux,0.0
+Tennessee,Nashville,Brandywine Farms,0.0
+Tennessee,Nashville,Capitol View,1.0
+Tennessee,Nashville,Cherokee Park,0.0
+Tennessee,Nashville,Cleveland Park,0.0
+Tennessee,Nashville,Crieve Hall,0.0
+Tennessee,Nashville,East End,1.0
+Tennessee,Nashville,Eastwood,0.0
+Tennessee,Nashville,Edgehill,1.0
+Tennessee,Nashville,Germantown,1.0
+Tennessee,Nashville,Glencliff,0.0
+Tennessee,Nashville,Gra-Mar Acres,0.0
+Tennessee,Nashville,Granny White,0.0
+Tennessee,Nashville,Green Hills,0.0
+Tennessee,Nashville,Greenwood,0.0
+Tennessee,Nashville,Hadley Park,0.0
+Tennessee,Nashville,Haynes Area,0.0
+Tennessee,Nashville,Hermitage Hills,0.0
+Tennessee,Nashville,Heron Walk,0.0
+Tennessee,Nashville,Hickory Woods,0.0
+Tennessee,Nashville,Hillsboro West End,1.0
+Tennessee,Nashville,Hillwood Estates,0.0
+Tennessee,Nashville,Historic Edgefield,1.0
+Tennessee,Nashville,Hoggett Ford Road,0.0
+Tennessee,Nashville,Inglewood-Riverwood,0.0
+Tennessee,Nashville,Jones-Buena Vista,0.0
+Tennessee,Nashville,Linton South Harpeth,0.0
+Tennessee,Nashville,Lockeland Springs,1.0
+Tennessee,Nashville,Marrowbone,0.0
+Tennessee,Nashville,McFerrin Park,1.0
+Tennessee,Nashville,McKissack Park,0.0
+Tennessee,Nashville,McMurray-Huntingdon,0.0
+Tennessee,Nashville,Melrose,0.0
+Tennessee,Nashville,Merry Oaks,0.0
+Tennessee,Nashville,Nashboro Village,0.0
+Tennessee,Nashville,Neelys Bend,0.0
+Tennessee,Nashville,Osage-North Fisk,0.0
+Tennessee,Nashville,Pennington Bend,0.0
+Tennessee,Nashville,Poplar Creek Estates,0.0
+Tennessee,Nashville,Rachel Jackson,0.0
+Tennessee,Nashville,Rayon City,0.0
+Tennessee,Nashville,Rosebank,0.0
+Tennessee,Nashville,Salemtown,0.0
+Tennessee,Nashville,Scottsboro,0.0
+Tennessee,Nashville,Sheffield On The Harpeth,0.0
+Tennessee,Nashville,Shelby Hills,0.0
+Tennessee,Nashville,Shepherd Hills,0.0
+Tennessee,Nashville,South Hampton,0.0
+Tennessee,Nashville,South Harpeth Area,0.0
+Tennessee,Nashville,Southeast,0.0
+Tennessee,Nashville,Southside,0.0
+Tennessee,Nashville,Stadium Area,0.0
+Tennessee,Nashville,Stanford Estates,0.0
+Tennessee,Nashville,Sylvan Heights,1.0
+Tennessee,Nashville,Sylvan Park,1.0
+Tennessee,Nashville,Talbot's Corner,0.0
+Tennessee,Nashville,Tulip Grove,0.0
+Tennessee,Nashville,Una,0.0
+Tennessee,Nashville,Villages Of Larchwood,0.0
+Tennessee,Nashville,West Meade,0.0
+Tennessee,Nashville,West Meade Park,0.0
+Tennessee,Nashville,White Bridge,0.0
+Tennessee,Nashville,Whites Bend,0.0
+Tennessee,Nashville,Woodbine,0.0
+Tennessee,Nashville,Woodycrest,0.0
+Texas,Austin,Allandale,1.0
+Texas,Austin,Barton Hills,1.0
+Texas,Austin,Bouldin,1.0
+Texas,Austin,Brentwood,1.0
+Texas,Austin,Central East Austin,1.0
+Texas,Austin,Chestnut,1.0
+Texas,Austin,Coronado Hills,0.0
+Texas,Austin,Crestview,1.0
+Texas,Austin,Dawson,1.0
+Texas,Austin,Downtown,1.0
+Texas,Austin,East Cesar Chavez,1.0
+Texas,Austin,East Congress,1.0
+Texas,Austin,Franklin Park,0.0
+Texas,Austin,Galindo,1.0
+Texas,Austin,Garrison Park,0.0
+Texas,Austin,Gateway,0.0
+Texas,Austin,Georgian Acres,0.0
+Texas,Austin,Govalle,1.0
+Texas,Austin,Hancock,1.0
+Texas,Austin,Heritage Hills,0.0
+Texas,Austin,Highland,1.0
+Texas,Austin,Holly,1.0
+Texas,Austin,Hyde Park,1.0
+Texas,Austin,Johnston Terrace,0.0
+Texas,Austin,Martin Luther King-Hwy 183,0.0
+Texas,Austin,McKinney,0.0
+Texas,Austin,Mlk,1.0
+Texas,Austin,Montopolis,0.0
+Texas,Austin,North Austin,0.0
+Texas,Austin,North Burnett,0.0
+Texas,Austin,North Lamar,0.0
+Texas,Austin,North Loop,1.0
+Texas,Austin,North Shoal Creek,0.0
+Texas,Austin,North University,1.0
+Texas,Austin,Old West Austin,1.0
+Texas,Austin,Parker Lane,0.0
+Texas,Austin,Pecan Springs Springdale,0.0
+Texas,Austin,Pleasant Valley,1.0
+Texas,Austin,Riverside,1.0
+Texas,Austin,Rmma,0.0
+Texas,Austin,Rosedale,1.0
+Texas,Austin,Rosewood,1.0
+Texas,Austin,Saint Edwards,0.0
+Texas,Austin,Saint Johns,0.0
+Texas,Austin,South Lamar,1.0
+Texas,Austin,South Manchaca,0.0
+Texas,Austin,South River City,1.0
+Texas,Austin,Southeast,0.0
+Texas,Austin,Sweet Briar,0.0
+Texas,Austin,Triangle State,1.0
+Texas,Austin,University Hills,0.0
+Texas,Austin,University Of Texas,1.0
+Texas,Austin,Upper Boggy Creek,1.0
+Texas,Austin,West Congress,1.0
+Texas,Austin,West Gate,0.0
+Texas,Austin,West University,1.0
+Texas,Austin,Windsor Hills,0.0
+Texas,Austin,Windsor Park,0.0
+Texas,Austin,Windsor Road,1.0
+Texas,Austin,Wooten,0.0
+Texas,Austin,Zilker,1.0
+Texas,Dallas,Arts District,1.0
+Texas,Dallas,Bluffview,0.0
+Texas,Dallas,Cedar Crest,0.0
+Texas,Dallas,City Center District,1.0
+Texas,Dallas,Convention Center District,1.0
+Texas,Dallas,Eagle Ford,0.0
+Texas,Dallas,Far North,0.0
+Texas,Dallas,Farmers Market District,1.0
+Texas,Dallas,Five Mile Creek,0.0
+Texas,Dallas,Government District,0.0
+Texas,Dallas,Lake Caroline,0.0
+Texas,Dallas,Lake Highlands,0.0
+Texas,Dallas,Love Field Area,0.0
+Texas,Dallas,Main Street District,1.0
+Texas,Dallas,Near East,1.0
+Texas,Dallas,North Dallas,0.0
+Texas,Dallas,Northeast Dallas,0.0
+Texas,Dallas,Northwest Dallas,0.0
+Texas,Dallas,Oak Cliff,1.0
+Texas,Dallas,Oak Lawn,1.0
+Texas,Dallas,Preston Hollow,0.0
+Texas,Dallas,Reunion District,1.0
+Texas,Dallas,South Boulevard-Park Row,0.0
+Texas,Dallas,South Dallas,0.0
+Texas,Dallas,Southeast Dallas,0.0
+Texas,Dallas,Southwest Dallas,0.0
+Texas,Dallas,University Park,0.0
+Texas,Dallas,Urbandale-Parkdale,0.0
+Texas,Dallas,West End Historic District,0.0
+Texas,Dallas,Winnetka Heights,1.0
+Texas,Dallas,Wolf Creek,0.0
+Texas,Dallas,m Streets,1.0
+Texas,Fort Worth,Arlington Heights,1.0
+Texas,Fort Worth,Downtown,1.0
+Texas,Fort Worth,Eastside,1.0
+Texas,Fort Worth,Far North,0.0
+Texas,Fort Worth,Far Northwest,0.0
+Texas,Fort Worth,Far South,0.0
+Texas,Fort Worth,Far Southwest,0.0
+Texas,Fort Worth,Far West,0.0
+Texas,Fort Worth,North,0.0
+Texas,Fort Worth,Northeast,0.0
+Texas,Fort Worth,Northside,0.0
+Texas,Fort Worth,South East,0.0
+Texas,Fort Worth,Southside,1.0
+Texas,Fort Worth,Sycamore,1.0
+Texas,Fort Worth,Tcu-West Cliff,1.0
+Texas,Fort Worth,Wedgwood,0.0
+Texas,Fort Worth,West,0.0
+Texas,Fort Worth,Western Hills-Ridglea,0.0
+Texas,Houston,Bellaire,0.0
+Texas,Houston,Downtown,1.0
+Texas,Houston,East End,1.0
+Texas,Houston,Far North,0.0
+Texas,Houston,Far Northeast,0.0
+Texas,Houston,Galleria-Uptown,0.0
+Texas,Houston,Greater Heights,1.0
+Texas,Houston,Greater Memorial,0.0
+Texas,Houston,Medical,0.0
+Texas,Houston,Meyerland,0.0
+Texas,Houston,Midtown,1.0
+Texas,Houston,Montrose,1.0
+Texas,Houston,North,0.0
+Texas,Houston,Northeast,0.0
+Texas,Houston,Northwest,0.0
+Texas,Houston,Pasadina,0.0
+Texas,Houston,Rice,0.0
+Texas,Houston,Rice Military,1.0
+Texas,Houston,River Oaks,0.0
+Texas,Houston,Southeast,0.0
+Texas,Houston,Southwest,0.0
+Texas,Houston,Spring Branch,0.0
+Texas,Houston,Sugarland,0.0
+Texas,Houston,West Houston,0.0
+Texas,Houston,West University,0.0
+Texas,Houston,Westchase,0.0
+Texas,San Antonio,145 Association,0.0
+Texas,San Antonio,165 Association,0.0
+Texas,San Antonio,184 Association,0.0
+Texas,San Antonio,Adams Hill,0.0
+Texas,San Antonio,Alamo Farmsteads-Babcock Road,1.0
+Texas,San Antonio,Alamo Farmsteads-Babcock Road-Westfield,1.0
+Texas,San Antonio,Alta Vista,1.0
+Texas,San Antonio,Apple Creek,0.0
+Texas,San Antonio,Arbor At Sonoma Ranch,0.0
+Texas,San Antonio,Arboretum,0.0
+Texas,San Antonio,Arena District,0.0
+Texas,San Antonio,Artesia Community Guild,0.0
+Texas,San Antonio,Auburn Oaks,0.0
+Texas,San Antonio,Avenida Guadalupe,0.0
+Texas,San Antonio,Beacon Hill,1.0
+Texas,San Antonio,Big Springs,0.0
+Texas,San Antonio,Bitters Enclave,0.0
+Texas,San Antonio,Blanco Woods,0.0
+Texas,San Antonio,Blossom Park,0.0
+Texas,San Antonio,Bluff Creek,0.0
+Texas,San Antonio,Bluffview At Camino Real,0.0
+Texas,San Antonio,Brady Gardens,0.0
+Texas,San Antonio,Braun Hollow,0.0
+Texas,San Antonio,Braun Station East,0.0
+Texas,San Antonio,Braun Station West,0.0
+Texas,San Antonio,Braun Willow,0.0
+Texas,San Antonio,Cable-Westwood,0.0
+Texas,San Antonio,Cadillac Drive,0.0
+Texas,San Antonio,Camelot,0.0
+Texas,San Antonio,Canyon Creek Bluffs,0.0
+Texas,San Antonio,Canyon Creek Estates,0.0
+Texas,San Antonio,Canyon Creek Village,0.0
+Texas,San Antonio,Canyon View,0.0
+Texas,San Antonio,Castle Hills Forest,0.0
+Texas,San Antonio,Castle Wood Forest,0.0
+Texas,San Antonio,Cavalo Creek Estates,0.0
+Texas,San Antonio,Champions Ridge,0.0
+Texas,San Antonio,Champions Springs-Sundance,0.0
+Texas,San Antonio,Churchill Estates,0.0
+Texas,San Antonio,Churchill Heights,0.0
+Texas,San Antonio,Cielo Vista,0.0
+Texas,San Antonio,Citizens On Alert,0.0
+Texas,San Antonio,Coliseum Oaks,0.0
+Texas,San Antonio,Coliseum-Willow Park,0.0
+Texas,San Antonio,College Park,0.0
+Texas,San Antonio,Collins Garden,0.0
+Texas,San Antonio,Community Workers Council,0.0
+Texas,San Antonio,Community Workers Council-Los Jardines,0.0
+Texas,San Antonio,Country View Village-Alamo Farmsteads-Babcock Road,0.0
+Texas,San Antonio,Countryside San Pedro,0.0
+Texas,San Antonio,Creekview Estates,0.0
+Texas,San Antonio,Crestlake,0.0
+Texas,San Antonio,Crown Meadows,0.0
+Texas,San Antonio,Crownhill Park,0.0
+Texas,San Antonio,Crownridge Of Texas,0.0
+Texas,San Antonio,Culebra Park,0.0
+Texas,San Antonio,Culebra Park-Third World,0.0
+Texas,San Antonio,Deer Hollow,0.0
+Texas,San Antonio,Deerfield,0.0
+Texas,San Antonio,Dellcrest Area,0.0
+Texas,San Antonio,Dellcrest Forrest,0.0
+Texas,San Antonio,Dellview Area,0.0
+Texas,San Antonio,Denver Heights,0.0
+Texas,San Antonio,Devonshire S,0.0
+Texas,San Antonio,Dignowity Hill,1.0
+Texas,San Antonio,Donaldson Terrace,0.0
+Texas,San Antonio,Downtown,1.0
+Texas,San Antonio,East Pyron-Symphony Lane-Mission San Jose,0.0
+Texas,San Antonio,East Terrell Hills,0.0
+Texas,San Antonio,East Village,0.0
+Texas,San Antonio,Eastgate,0.0
+Texas,San Antonio,Eastwood Village,0.0
+Texas,San Antonio,Eckhert Crossing,0.0
+Texas,San Antonio,Eden,0.0
+Texas,San Antonio,Edison,0.0
+Texas,San Antonio,El Chaparral Fertile Valley,0.0
+Texas,San Antonio,El Dorado,0.0
+Texas,San Antonio,Elm Creek,0.0
+Texas,San Antonio,Emerald Forest,0.0
+Texas,San Antonio,Enchanted Village-Greater Harmony Hills,0.0
+Texas,San Antonio,Encino Bluff,0.0
+Texas,San Antonio,Encino Creek,0.0
+Texas,San Antonio,Encino Park,0.0
+Texas,San Antonio,Encino Ranch,0.0
+Texas,San Antonio,Feather Ridge,0.0
+Texas,San Antonio,Fieldstone,0.0
+Texas,San Antonio,Five Points,1.0
+Texas,San Antonio,Forest At Stone Oak,0.0
+Texas,San Antonio,Forest Oak,0.0
+Texas,San Antonio,Forests At Inwood,0.0
+Texas,San Antonio,Fox Run,0.0
+Texas,San Antonio,French Creek Village,0.0
+Texas,San Antonio,Friends Of Friedrich Wilderness Park,0.0
+Texas,San Antonio,Gardens At Brookhollow,0.0
+Texas,San Antonio,General Krueger,0.0
+Texas,San Antonio,Gold Canyon,0.0
+Texas,San Antonio,Government Hill Alliance,0.0
+Texas,San Antonio,Great Northwest,0.0
+Texas,San Antonio,Greater Gardendale,0.0
+Texas,San Antonio,Greater Harmony Hills,0.0
+Texas,San Antonio,Green Spring Valley,0.0
+Texas,San Antonio,Greystone Country Estates,0.0
+Texas,San Antonio,Guilbeau Park,0.0
+Texas,San Antonio,Hart Ranch Unit One,0.0
+Texas,San Antonio,Harvard Place-Eastlawn,0.0
+Texas,San Antonio,Hein-Orchard,0.0
+Texas,San Antonio,Heritage,0.0
+Texas,San Antonio,Hidden Cove-Indian Creek-Southwest,0.0
+Texas,San Antonio,Hidden Forest,0.0
+Texas,San Antonio,Hidden Meadow,0.0
+Texas,San Antonio,High Country,0.0
+Texas,San Antonio,Highland Farms,0.0
+Texas,San Antonio,Highland Forest,0.0
+Texas,San Antonio,Highland Hills,0.0
+Texas,San Antonio,Highland Park,0.0
+Texas,San Antonio,Hillcrest,0.0
+Texas,San Antonio,Hills And Dales,0.0
+Texas,San Antonio,Historic Gardens,0.0
+Texas,San Antonio,Hunters Brook-Hunters Chase,0.0
+Texas,San Antonio,Hunters Chase,0.0
+Texas,San Antonio,Hunters Creek,0.0
+Texas,San Antonio,Hunters Mill,0.0
+Texas,San Antonio,Huntington Place,0.0
+Texas,San Antonio,Ingram Hills,0.0
+Texas,San Antonio,Inspiration Hills,0.0
+Texas,San Antonio,Inwood Homeowners,0.0
+Texas,San Antonio,Jade Oaks,0.0
+Texas,San Antonio,Jefferson,0.0
+Texas,San Antonio,Jefferson Heights,0.0
+Texas,San Antonio,Jefferson-Monticello Park,0.0
+Texas,San Antonio,Jefferson-Monticello Park-Woodlawn Lake,0.0
+Texas,San Antonio,Jefferson-Woodlawn Lake,0.0
+Texas,San Antonio,King William,1.0
+Texas,San Antonio,Kingsborough Ridge,0.0
+Texas,San Antonio,Knollcreek,0.0
+Texas,San Antonio,Laddie Place And North Wilson,0.0
+Texas,San Antonio,Lafayette Place,0.0
+Texas,San Antonio,Lago Vista-South Southwest,0.0
+Texas,San Antonio,Lakeside,0.0
+Texas,San Antonio,Las Lomas-Stone Oak,0.0
+Texas,San Antonio,Lavaca,1.0
+Texas,San Antonio,Legend Hills,0.0
+Texas,San Antonio,Lindsey Place,0.0
+Texas,San Antonio,Lockhill Estates,0.0
+Texas,San Antonio,Loma Park,0.0
+Texas,San Antonio,Loma Vista,0.0
+Texas,San Antonio,Longs Ridge,0.0
+Texas,San Antonio,Lorrence Creek,0.0
+Texas,San Antonio,Los Angeles Heights-Keystone,0.0
+Texas,San Antonio,Los Jardines,0.0
+Texas,San Antonio,Lower Southeast Side,0.0
+Texas,San Antonio,Mahncke Park,0.0
+Texas,San Antonio,Maverick Creek,0.0
+Texas,San Antonio,McCreless Meadows,0.0
+Texas,San Antonio,Meadow Village,0.0
+Texas,San Antonio,Memorial Heights,0.0
+Texas,San Antonio,Mesa Vista-Stone Oak,0.0
+Texas,San Antonio,Mission Ridge,0.0
+Texas,San Antonio,Mission San Jose,0.0
+Texas,San Antonio,Mission Trace-Vance Jackson,0.0
+Texas,San Antonio,Misty Oaks,0.0
+Texas,San Antonio,Mockingbird Hill,0.0
+Texas,San Antonio,Monte Vista,0.0
+Texas,San Antonio,Mountain View Acres,0.0
+Texas,San Antonio,Nevada Street,0.0
+Texas,San Antonio,North Castle Hills,0.0
+Texas,San Antonio,North Central Heritage,0.0
+Texas,San Antonio,North Central Thousand Oaks,0.0
+Texas,San Antonio,North San Antonio Hills,0.0
+Texas,San Antonio,North Shearer Hills,0.0
+Texas,San Antonio,Northchase,0.0
+Texas,San Antonio,Northern Heights,0.0
+Texas,San Antonio,Northern Hills,0.0
+Texas,San Antonio,Northhampton,0.0
+Texas,San Antonio,Northmoor,0.0
+Texas,San Antonio,Northwest Crossing,0.0
+Texas,San Antonio,Northwest Los Angeles Heights,0.0
+Texas,San Antonio,Northwest Park,0.0
+Texas,San Antonio,Oak Bluff,0.0
+Texas,San Antonio,Oak Creek,0.0
+Texas,San Antonio,Oak Grove Estates,0.0
+Texas,San Antonio,Oak Haven Heights,0.0
+Texas,San Antonio,Oak Hills,0.0
+Texas,San Antonio,Oak Hollow Park,0.0
+Texas,San Antonio,Oak Meadow,0.0
+Texas,San Antonio,Oak Park-Northwood,0.0
+Texas,San Antonio,Oakland Heights,0.0
+Texas,San Antonio,Oakmont Downs,0.0
+Texas,San Antonio,Oakwood,0.0
+Texas,San Antonio,Olmos Park Terrace,0.0
+Texas,San Antonio,Overlook Of Carriage Hills,0.0
+Texas,San Antonio,Oxbow,0.0
+Texas,San Antonio,Palm Heights,0.0
+Texas,San Antonio,Park Forest,0.0
+Texas,San Antonio,Park Place,0.0
+Texas,San Antonio,Park Village,0.0
+Texas,San Antonio,Pecan Valley,0.0
+Texas,San Antonio,Pecan Valley Heights-Pecan Valley,0.0
+Texas,San Antonio,Pecan Valley Park Estates-Pecan Valley,0.0
+Texas,San Antonio,Perrin Park,0.0
+Texas,San Antonio,Pipers Meadow,0.0
+Texas,San Antonio,Preston Hollow,0.0
+Texas,San Antonio,Promontory Pointe-Heights,0.0
+Texas,San Antonio,Prospect Hill,0.0
+Texas,San Antonio,Provincia Villas,0.0
+Texas,San Antonio,Quail Creek,0.0
+Texas,San Antonio,Quintana Community,0.0
+Texas,San Antonio,Rainbow Hills,0.0
+Texas,San Antonio,Randolph Hills,0.0
+Texas,San Antonio,Range Rider,0.0
+Texas,San Antonio,Redland Estates,0.0
+Texas,San Antonio,Redland Ridge,0.0
+Texas,San Antonio,Redland Springs,0.0
+Texas,San Antonio,Redland Woods,0.0
+Texas,San Antonio,Regency Meadow,0.0
+Texas,San Antonio,Regency Park,0.0
+Texas,San Antonio,Remington Heights,0.0
+Texas,San Antonio,Ridge At Deerfield,0.0
+Texas,San Antonio,Ridgehaven Volunteer,0.0
+Texas,San Antonio,Ridgestone,0.0
+Texas,San Antonio,Ridgestone No 9,0.0
+Texas,San Antonio,River Road,0.0
+Texas,San Antonio,Riverside,0.0
+Texas,San Antonio,Riverside South,0.0
+Texas,San Antonio,Rolling Ridge Club,0.0
+Texas,San Antonio,Rolling Ridge Village-Rolling Ridge Club,0.0
+Texas,San Antonio,Roosevelt Park,0.0
+Texas,San Antonio,Roseheart,0.0
+Texas,San Antonio,Royal Ridge,0.0
+Texas,San Antonio,Royal View,0.0
+Texas,San Antonio,Saddlebrook Farms,0.0
+Texas,San Antonio,San Antonio Cambridge Village-East Terrell Hills,0.0
+Texas,San Antonio,San Antonio Creekside,0.0
+Texas,San Antonio,Santa Fe Trails,0.0
+Texas,San Antonio,Scattered Oaks,0.0
+Texas,San Antonio,Shady Oaks,0.0
+Texas,San Antonio,Shavano Forest,0.0
+Texas,San Antonio,Shavano Garden Homes,0.0
+Texas,San Antonio,Shavano Heights,0.0
+Texas,San Antonio,Shearer Hills-Ridgeview,0.0
+Texas,San Antonio,Sierra Springs,0.0
+Texas,San Antonio,Sierra Vista,0.0
+Texas,San Antonio,Silverbrook,0.0
+Texas,San Antonio,Skyline Park,0.0
+Texas,San Antonio,Sonoma Ranch,0.0
+Texas,San Antonio,Sonterra-Stone Oak,0.0
+Texas,San Antonio,South Southwest,0.0
+Texas,San Antonio,Southeast Side,0.0
+Texas,San Antonio,Southpark,0.0
+Texas,San Antonio,Southwest,0.0
+Texas,San Antonio,Spring Creek,0.0
+Texas,San Antonio,Springvale,0.0
+Texas,San Antonio,Spyglass Hill,0.0
+Texas,San Antonio,St James Place,0.0
+Texas,San Antonio,Stablewood-Valley Hi North,0.0
+Texas,San Antonio,Steeplebrook,0.0
+Texas,San Antonio,Steubing Ranch,0.0
+Texas,San Antonio,Stone Mountain,0.0
+Texas,San Antonio,Stone Oak,0.0
+Texas,San Antonio,Stone Oak Communities,0.0
+Texas,San Antonio,Stone Oak Meadows,0.0
+Texas,San Antonio,Stone Oak Parke,0.0
+Texas,San Antonio,Stone Valley,0.0
+Texas,San Antonio,Stone Wood,0.0
+Texas,San Antonio,Stonefield,0.0
+Texas,San Antonio,Stonegate Hills At Westover Hill,0.0
+Texas,San Antonio,Summit At Bulverde Creek,0.0
+Texas,San Antonio,Summit-Stone Oak,0.0
+Texas,San Antonio,Sun Gate,0.0
+Texas,San Antonio,Sunny Slope,0.0
+Texas,San Antonio,Sunrise,0.0
+Texas,San Antonio,Sunshine Estates,0.0
+Texas,San Antonio,Tanglewood,0.0
+Texas,San Antonio,Terrell Heights,0.0
+Texas,San Antonio,Tezel Heights,0.0
+Texas,San Antonio,Tezel Trails,0.0
+Texas,San Antonio,The Bluffs Of Henderson Pass,0.0
+Texas,San Antonio,The Champions Estates-Stone Oak,0.0
+Texas,San Antonio,The Crossing At Quail Creek,0.0
+Texas,San Antonio,The Dominion,0.0
+Texas,San Antonio,The Fountains At Deerfield,0.0
+Texas,San Antonio,The Heights At Stone Oak,0.0
+Texas,San Antonio,The Hills Of Park North,0.0
+Texas,San Antonio,The Overlook,0.0
+Texas,San Antonio,The Park At Deerfield,0.0
+Texas,San Antonio,The Park-Waters,0.0
+Texas,San Antonio,The Seventh At Sonterra-The Vineyard,0.0
+Texas,San Antonio,The Springs,0.0
+Texas,San Antonio,The Terraces At Encino Creek,0.0
+Texas,San Antonio,The Vineyard,0.0
+Texas,San Antonio,The Waters At Deerfield,0.0
+Texas,San Antonio,Third World,0.0
+Texas,San Antonio,Thompson Community,0.0
+Texas,San Antonio,Thousand Oaks,0.0
+Texas,San Antonio,Thunderbird Hills,0.0
+Texas,San Antonio,Tierra Del Sol,0.0
+Texas,San Antonio,Tierra Linda,0.0
+Texas,San Antonio,Timber Ridge,0.0
+Texas,San Antonio,Tobin Hill,1.0
+Texas,San Antonio,Towne Lake Garden,0.0
+Texas,San Antonio,Trophy Ridge,0.0
+Texas,San Antonio,United Homeowners,0.0
+Texas,San Antonio,United Westwood,0.0
+Texas,San Antonio,University Park,0.0
+Texas,San Antonio,Valencia,0.0
+Texas,San Antonio,Valley Forest,0.0
+Texas,San Antonio,Valley Hi North,0.0
+Texas,San Antonio,Vance Jackson,0.0
+Texas,San Antonio,Ventura,0.0
+Texas,San Antonio,Verde Hills,0.0
+Texas,San Antonio,Villa De San Antonio,0.0
+Texas,San Antonio,Village In The Woods,0.0
+Texas,San Antonio,Village North One,0.0
+Texas,San Antonio,Villages Of Westcreek,0.0
+Texas,San Antonio,Villas At Redland Ranch,0.0
+Texas,San Antonio,Villas De Esperanza,0.0
+Texas,San Antonio,Villas Of Babcock-Summerwind,0.0
+Texas,San Antonio,Vista,0.0
+Texas,San Antonio,Vista Del Norte,0.0
+Texas,San Antonio,Vistas Of Encino Park,0.0
+Texas,San Antonio,Walden Meadows,0.0
+Texas,San Antonio,Walker Ranch,0.0
+Texas,San Antonio,Wellsprings-Vance Jackson,0.0
+Texas,San Antonio,Westfield,0.0
+Texas,San Antonio,Westfort Alliance,0.0
+Texas,San Antonio,Westwood Village,0.0
+Texas,San Antonio,Wheatley Heights,0.0
+Texas,San Antonio,Whisper Hollow,0.0
+Texas,San Antonio,Whispering Oaks,0.0
+Texas,San Antonio,Wilderness Pointe,0.0
+Texas,San Antonio,Wildwood West,0.0
+Texas,San Antonio,Wilshire,0.0
+Texas,San Antonio,Wilshire Village,0.0
+Texas,San Antonio,Woller Creek,0.0
+Texas,San Antonio,Woodbridge At Monte Viejo,0.0
+Texas,San Antonio,Woodglen,0.0
+Texas,San Antonio,Woodlands Of Camino Real,0.0
+Texas,San Antonio,Woodlawn Lake,1.0
+Texas,San Antonio,Woodmont,0.0
+Texas,San Antonio,Woodridge,0.0
+Texas,San Antonio,Woods Of Deerfield,0.0
+Texas,San Antonio,Woods Of Shavano,0.0
+Texas,San Antonio,Woodstone,0.0
+Texas,San Antonio,Woodthorn,0.0
+Texas,San Antonio,Wynnwood,0.0
