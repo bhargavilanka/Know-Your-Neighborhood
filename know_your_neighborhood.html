@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neighborhood Finder</title>
+    <!-- Bootstrap CDN for styling -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            padding-top: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        label {
+            font-size: 16px;
+            color: #34495e;
+        }
+        select {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            width: 100%;
+            font-size: 14px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 15px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            width: 100%;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+        .result {
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            color: #27ae60;
+            text-align: center;
+        }
+        .dropdown-container {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Find the Closest Neighborhood</h1>
+
+        <div class="dropdown-container">
+            <label for="city1">What City Are You In</label>
+            <select id="city1">
+                <option value="">Select City</option>
+                <option value="new york city">New York City</option>
+                <option value="san francisco">San Francisco</option>
+                <option value="los angeles">Los Angeles</option>
+                <option value="san diego">San Diego</option>
+                <option value="san jose">San Jose</option>
+                <option value="pheonix">Pheonix</option>
+                <option value="washington">Washington D.C.</option>
+                <option value="jacksonville">Jacksonville</option>
+                <option value="chicago">Chicago</option>
+                <option value="boston">Boston</option>
+                <option value="austin">Austin</option>
+                <option value="dallas">Dallas</option>
+                <option value="denver">Denver</option>
+                <option value="columbus">Columbus</option>
+                <option value="fort worth">Fort Worth</option>
+                <option value="houston">Houston</option>
+                <option value="nashville">Nashville</option>
+                <option value="philadelphia">Philadelphia</option>
+                <option value="las vegas">Las Vegas</option>
+                <option value="san antonio">San Antonio</option>
+            <!-- Add more cities -->
+            </select>
+        </div>
+        
+        <div class="dropdown-container">
+            <label for="neighborhood1">What Neighborhood Are You In</label>    
+            <select id="neighborhood1">
+                <option value="">Select Neighborhood</option>
+            <!-- Neighborhoods will be dynamically populated here -->
+            </select>
+        </div>
+
+        <div class="dropdown-container">
+            <label for="city2">Where Do You Want To Go</label>
+            <select id="city2">
+                <option value="new york city">New York City</option>
+                <option value="san francisco">San Francisco</option>
+                <option value="los angeles">Los Angeles</option>
+                <option value="san diego">San Diego</option>
+                <option value="san jose">San Jose</option>
+                <option value="pheonix">Pheonix</option>
+                <option value="washington">Washington D.C.</option>
+                <option value="jacksonville">Jacksonville</option>
+                <option value="chicago">Chicago</option>
+                <option value="boston">Boston</option>
+                <option value="austin">Austin</option>
+                <option value="dallas">Dallas</option>
+                <option value="denver">Denver</option>
+                <option value="columbus">Columbus</option>
+                <option value="fort worth">Fort Worth</option>
+                <option value="houston">Houston</option>
+                <option value="nashville">Nashville</option>
+                <option value="philadelphia">Philadelphia</option>
+                <option value="las vegas">Las Vegas</option>
+                <option value="san antonio">San Antonio</option>
+                <!-- Add more city options here -->
+            </select>
+        </div>
+
+        <button onclick="findNeighborhood()">Find Neighborhood</button>
+
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const citySelect = document.getElementById('city1'); // Updated ID
+            const neighborhoodSelect = document.getElementById('neighborhood1'); // Updated ID
+
+            let cityNeighborhoodMap = {};
+            fetch('http://localhost:8000/get-neighborhoods')
+                        .then(response => {
+                    console.log('Response status:', response.status); // Check HTTP status
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    console.log('Fetched data:', data); // Log the data received
+                    cityNeighborhoodMap = data;
+                })
+                .catch(error => console.error('Error fetching city-neighborhood data:', error));
+
+            citySelect.addEventListener('change', () => {
+                const selectedCity = citySelect.value.toLowerCase();
+                console.log('Selected city:', selectedCity); // Debugging
+
+                // Clear and repopulate neighborhood dropdown
+                neighborhoodSelect.innerHTML = '<option value="">Select Neighborhood</option>';
+                if (cityNeighborhoodMap[selectedCity]) {
+                    cityNeighborhoodMap[selectedCity].forEach(neighborhood => {
+                        const option = document.createElement('option');
+                        option.value = neighborhood;
+                        option.textContent = neighborhood;
+                        neighborhoodSelect.appendChild(option);
+                    });
+                }
+            });
+        });
+    </script>        
+
+    <script>
+        function findNeighborhood() {
+    // Get the values from the dropdowns
+    const city1 = document.getElementById("city1").value;
+    const neighborhood1 = document.getElementById("neighborhood1").value;
+    const city2 = document.getElementById("city2").value;
+
+    // Construct URL and log it
+    const url = `http://localhost:8000/find-neighborhood?city1=${city1}&neighborhood1=${neighborhood1}&city2=${city2}`;
+    console.log("Request URL:", url);
+
+    // Make a request to the backend to get the closest neighborhood
+    fetch(url)
+    .then(response => response.json())
+    .then(data => {
+        console.log("Response Data:", data);  // Log the response data
+        document.getElementById("result").innerText = `The closest neighborhood in ${city2} to ${neighborhood1} in ${city1} is: ${data.closest_neighborhood}`;
+    })
+    .catch(error => console.error('Error:', error));
+
+}
+    </script>
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>
