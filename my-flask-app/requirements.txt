@@ -1,0 +1,6 @@
+Flask
+flask-cors
+gunicorn
+pandas
+scikit-learn
+sentence-transformers
