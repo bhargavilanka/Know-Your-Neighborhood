@@ -1,9 +1,9 @@
 Flask
 flask-cors
 gunicorn
+numpy
+matplotlib
 pandas
 scikit-learn
 sentence-transformers
-matplotlib.pyplot
-numpy
 os
