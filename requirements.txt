@@ -4,3 +4,6 @@ gunicorn
 pandas
 scikit-learn
 sentence-transformers
+matplotlib.pyplot
+numpy
+os
