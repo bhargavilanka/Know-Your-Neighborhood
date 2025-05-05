@@ -1,7 +1,9 @@
-# Know-Your-Neighborhood
-### A tool to compare neighborhoods within big cities and to predict gentrification
-By Bhargavi Lanka and Kiera Patterson
+# Neighborhood Matcher
 
-For detailed information please check here: [PENDING, TO BE UPDATED]
+This project compares neighborhoods across different cities using demographic data and textual descriptions (vibe, activities). It clusters and finds the closest-matching neighborhood based on both data types.
 
-A high-level overview of the work can be found here: [PENDING, TO BE UPDATED]
+## Setup
+
+```bash
+pip install -r requirements.txt
+python app.py
