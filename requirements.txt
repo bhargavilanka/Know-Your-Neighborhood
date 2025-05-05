@@ -2,8 +2,7 @@ Flask
 flask-cors
 gunicorn
 numpy
-matplotlib
+matplotlib==3.4.3
 pandas
 scikit-learn
 sentence-transformers
-os
